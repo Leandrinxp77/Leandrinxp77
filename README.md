@@ -3,7 +3,7 @@ Desenvolvi alguns projetos Front e Back durante a minha caminhada
 
 <div align="center">
 
-  <h2>🚀 Tecnologias Utilizadas</h2>
+  <h2> Tecnologias Utilizadas</h2>
 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
